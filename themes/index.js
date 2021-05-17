@@ -288,6 +288,12 @@ const themes = {
     text_color: "C3D1D9",
     bg_color: "0D1117",
   },
+  three_color_morumbi: {
+    title_color: "FF0000",
+    icon_color: "000000",
+    text_color: "FF0000",
+    bg_color: "FFFFFF",
+  },
 };
 
 module.exports = themes;
